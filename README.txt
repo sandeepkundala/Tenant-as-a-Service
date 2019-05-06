@@ -45,5 +45,5 @@ For successful run of the program:
  4. configure OSPF in all the routers such that the networks south of core and north of leaves are advertised.
  5. enable bgp peering and l2vpn evpn peering.
  6. advertise prefixes of the server networks in bgp.
- 7. run the python program: python ECE792_TaaS_test.py
+ 7. run the python program: python TaaS.py
    
